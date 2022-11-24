@@ -6,6 +6,7 @@ import ComicsList from './ComicsList.vue';
 export default {
     name: 'AppMain',
     components: {
+        HeroImage,
         Banner,
         ComicsList,
     },
